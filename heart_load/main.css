@@ -67,7 +67,7 @@ path {
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-dasharray: 300px;
-  animation: dash 10000ms -10000ms infinite alternate ease-in-out,
+  animation: dash 5000ms -5000ms infinite alternate ease-in-out,
              w 7200ms -7200ms infinite alternate ease-in-out;
 }
 
